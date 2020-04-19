@@ -3,7 +3,7 @@
 Description-> 
 1. Firstly it takes the name of the folder. And store your images in that folder...you can create multiple folders for the difference  names for your image dataset. 
 
-2.Your live Camera analysis the face. If the faces matches any of the dataset folder then the camera recognise that person and give the result as per your folder name.
+2. Your live Camera analysis the face. If the faces matches any of the dataset folder then the camera recognise that person and give the result as per your folder name.
 
 3. Press Enter continuosly three time to close your camera
 
